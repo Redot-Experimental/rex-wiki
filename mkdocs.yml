@@ -1,0 +1,12 @@
+site_name: ReX Wiki
+theme:
+  logo: assets/redot.png
+  name: material
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+  palette:
+    scheme: slate
+    primary: deep-orange
