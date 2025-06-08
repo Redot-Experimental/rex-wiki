@@ -1,4 +1,7 @@
 site_name: ReX Wiki
+markdown_extensions:
+  - attr_list
+  - md_in_html
 theme:
   logo: assets/redot.png
   name: material
