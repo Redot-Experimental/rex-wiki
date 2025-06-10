@@ -1,9 +1,13 @@
+---
+title: Home
+icon: material/emoticon-happy 
+---
+
 # Home
 
 Welcome to the ReX wiki .
 
 ## Highlights
-
 
 <div class="grid cards" markdown>
 
@@ -43,7 +47,7 @@ Welcome to the ReX wiki .
 </div>
 
 
-* ### [Team Guidelines](/guidelines/sop)
+* ### [Team Guidelines](guidelines/sop)
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
