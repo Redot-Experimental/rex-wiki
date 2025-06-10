@@ -11,6 +11,8 @@ some_url: https://example.com
 
 # **Developer Guidelines**
 
+:material-clock-fast
+
 <p><u>Last Updated - June 6th, 2025</u></p>
 
 ---
