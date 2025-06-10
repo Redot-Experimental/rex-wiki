@@ -1,6 +1,6 @@
 ---
 title: Home
-icon: material/emoticon-happy 
+icon: fontawesome/solid/house-user
 ---
 
 # Home
@@ -11,50 +11,29 @@ Welcome to the ReX wiki .
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+-   :material-clock-fast:{ .lg .middle } __Guidelines__
 
     ---
 
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
+    Have a look at the guidelines page.
 
-    [:octicons-arrow-right-24: Getting started](#)
+    [:octicons-arrow-right-24: View Guidelines](guidelines)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
-
-    ---
-
-    Focus on your content and generate a responsive and searchable static site
-
-    [:octicons-arrow-right-24: Reference](#)
-
--   :material-format-font:{ .lg .middle } __Made to measure__
+-   :fontawesome-brands-markdown:{ .lg .middle } __Research__
 
     ---
 
-    Change the colors, fonts, language, icons, logo and more with a few lines
+    The research section is for individual devs or section contributors to document their findings and work 
 
-    [:octicons-arrow-right-24: Customization](#)
+    [:octicons-arrow-right-24: View Research](Research)
 
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+-   :material-format-font:{ .lg .middle } __Structure__
 
     ---
 
-    Material for MkDocs is licensed under MIT and available on [GitHub]
+    This sections deals with the team structure, including team hierarchy
 
-    [:octicons-arrow-right-24: License](#)
+    [:octicons-arrow-right-24: View Structure](structure)
 
 </div>
 
-
-* ### [Team Guidelines](guidelines/sop)
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

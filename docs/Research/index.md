@@ -1,5 +1,7 @@
 ---
 title: Research
+icon: fontawesome/solid/book-open-reader
+
 ---
 
 ## How to use
