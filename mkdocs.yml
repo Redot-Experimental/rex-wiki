@@ -1,7 +1,6 @@
 site_name: ReX Wiki
 plugins:
-  - meta
-  - info
+
 markdown_extensions:
   - attr_list
   - md_in_html
