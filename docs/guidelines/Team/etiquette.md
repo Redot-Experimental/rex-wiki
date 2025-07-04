@@ -1,5 +1,5 @@
 ---
-title: Team Guidelines
+title: Developer Etiquette
 summary: Team.
 authors:
 - ChocolatechipAussie
@@ -9,7 +9,7 @@ toc: false
 some_url: https://example.com
 ---
 
-# **Developer Guidelines**
+# **Developer Etiquette Guidelines**
 
 <p><u>Last Updated - June 6th, 2025</u></p>
 
@@ -122,3 +122,46 @@ Our shared goal is to build and improve the engine while fostering a space where
         - Default to transparency -- if it affects the project, make it public.
         - Link between chat and GitHub where necessary for continuity.
         - Use threads, tags, and titles to organize discussions clearly.
+
+## 5. Respect the Review Process
+
+- Be patient when waiting for reviews; everyone has different time commitments, and the process itself takes time.
+- Project leadership has the responsibility to foster growth and make decisions for the betterment of the project and the community. If your idea isn't accepted or existing work needs to be changed, replaced, or removed to support that goal, please remain respectful of the decisions made and work with leadership to contribute your ideas in other ways.
+!!! note "Change is a good thing!"
+    Change is a natural and necessary part of the development process. It shouldn't be dismissed or fought against to save previous work. Instead it should be used as a tool to drive the project forward while aligning with Redot's values.
+- When performing reviews, be constructive: point out issues clearly and provide explanations and alternative solutions. Don't use the review process to flaunt ego, or make condecending remarks.
+- Follow the [review procedures](http://example.com) when conducting reviews. Don’t rely solely on personal bias or preferred ways of working.
+- Don’t start implementation of an idea or make significant changes to a system before writing a proposal and getting approval.
+- Don’t merge large or potentially disruptive changes without review and approval from project leadership.
+
+## 6. Commit Responsibly
+
+- Follow the project's [commit message guidelines and code style](http://example.com).
+- Ensure you are commiting to the appropriate branches as discribed above.
+- Use feature branches and pull requests for collaborative work and review.
+
+## 7. Seek Consensus
+
+- Proposals that impact the project's direction or structure should go through discussion and review.
+- Don't push major rewrites or removals without justification.
+- “Working first, then refining” is preferred. Make your progress public even if it's just on a fork of the repo you are targeting.
+
+!!! note "Progress Transparency"
+    Holding onto changes localy without pushing commits to forks as they happen holds up the development process. If you are working on a project which requires long running developmet or multiple systems working togather to implement pushing these commits as they happen to a publicly reviewwable location is required.
+
+## 8. Help Others
+
+- Take time to assist new contributors when you can.
+- Share context, link to documentation, and explain reasoning behind decisions.
+- Mentorship strengthens the project and community.
+
+## 9. Own Your Mistakes
+
+- If you break something or realize you made a poor decision, acknowledge it and help fix it.
+- Blame is not useful—solutions and learning are.
+
+## 10. Be a Good Steward
+
+- Remember that every contributor represents the project.
+- Encourage a culture of quality, curiosity, and care.
+- Help create an environment that you’d want to contribute to.
